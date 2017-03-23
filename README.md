@@ -1,3 +1,3 @@
 # Responsive
 
-// just checking...
+// To-DO
