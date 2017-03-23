@@ -1,0 +1,22 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "// To-DO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeekshithM/Responsive.git"
+  },
+  "author": "Deekshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeekshithM/Responsive/issues"
+  },
+  "homepage": "https://github.com/DeekshithM/Responsive#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
